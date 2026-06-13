@@ -1,1 +1,0 @@
-# cognisign google hackathon
