@@ -93,9 +93,9 @@ CogniSign uses a smartphone camera to:
 
 | Name | Role |
 |------|------|
-| Jahnavi Polishetty | Team Member |
-| Indrani | Team Member |
-| Kesani Sai Charan | Team Member |
+| Jahnavi Polishetty | full stack |
+| Indrani | backend |
+| Kesani Sai Charan | lead and frontend |
 
 *Developed by students from VIT Vellore & AITS Rajampet*
 *Google Hackathon 2026 — Hosted by Apex Institute of Management, Chandigarh University*
