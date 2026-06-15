@@ -94,7 +94,7 @@ CogniSign uses a smartphone camera to:
 | Name | Role |
 |------|------|
 | Jahnavi Polishetty | full stack |
-| Indrani | backend |
+| Indrani Basireddy | backend |
 | Kesani Sai Charan | lead and frontend |
 
 *Developed by students from VIT Vellore & AITS Rajampet*
